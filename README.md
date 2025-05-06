@@ -18,15 +18,14 @@ Projeto Java que consome a API [ExchangeRate API](https://www.exchangerate-api.c
 - Git + GitHub
 
  ## 📂 Estrutura do projeto
-
-  conversor_moedas/
-│
-├── interfaceusuario/ # Interação com o usuário
-├── modelo/ # Dados da conversão (record)
-├── servico/ # Lógica e integração com a API
+````
+conversor_moedas/
+├── interfaceusuario/ 👤 Interação com o usuário
+├── modelo/ 📄 Dados da conversão (record)
+├── servico/ 🔧 Lógica e integração com a API
 └── README.md
 
-
+````
 ## 🧪 Como executar
 
 1. Clone o repositório:
@@ -41,6 +40,6 @@ Projeto Java que consome a API [ExchangeRate API](https://www.exchangerate-api.c
 
 
  ## ✨ Demonstração
-
+![Demonstração do programa](./demo.gif)
 
  
