@@ -31,8 +31,7 @@ Projeto Java que consome a API [ExchangeRate API](https://www.exchangerate-api.c
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-
+   git clone git@github.com:JuRSouza/conversor-moedas.git
 
 2. Abra o projeto no IntelliJ
 
