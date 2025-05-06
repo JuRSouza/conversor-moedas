@@ -40,6 +40,8 @@ conversor_moedas/
 
 
  ## ✨ Demonstração
-![Demonstração do programa](./demo.gif)
+ 
+![Demonstração do programa](demo.gif)
+
 
  
